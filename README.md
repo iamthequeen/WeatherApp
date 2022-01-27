@@ -1,6 +1,5 @@
 # Weather App
-Weather app that displays the current time and weather data.
-
+Weather app that displays the current weather along with other weather data.
 
 
 
@@ -45,11 +44,11 @@ Project is created with:
 
 
 
--  Wanted to display the weather icon bigger but the icon provided by the api gets pixelated
+-  Wanted to display the weather icon with a bigger size but the icon provided by the API gets pixelated
 
 -  Didn’t display the measurement label for wind since the column alignment would be off
 
 
 ## Inspiration
 
-The design of this weather was inspired by: https://dribbble.com/shots/14807515-Daily-Weather-Prediction#
+The design of this weather application was inspired by: https://dribbble.com/shots/14807515-Daily-Weather-Prediction#
