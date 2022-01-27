@@ -3,7 +3,7 @@ Weather app that displays the current weather along with other weather data.
 
 
 
-Link: 
+Link: https://weatherappbybianca.netlify.app/
 
 
 
