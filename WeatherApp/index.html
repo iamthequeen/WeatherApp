@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/images/weather.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Weather</title>
+</head>
+<body>
+        <div class="weather-container">
+          <header>
+            <p class="todays-date"></p>
+            <h1 class="city">Bismarck</h1>
+          </header>
+          <div class="image-and-weather">
+          <img class="icon">
+          <h2 class="weather"></h2>
+            </div>
+          
+          
+          <div class="weather-info">
+            
+            <div class="wind weather-section">
+                <p class="small-word">Wind</p>
+            <h3 class="number wind-num"></h3>
+              </div>
+            <div class="temp weather-section">
+                <p class="small-word">Temp</p>
+            <h3 class="number temp-num"></h3>
+              </div>
+            <div class="humidity weather-section">
+                <p class="small-word">Humidity</p>
+            <h3 class="number humidity-num"></h3>
+              </div>
+          </div>
+        </div>
+    
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="app.js"></script>
+</body>
+</html>
